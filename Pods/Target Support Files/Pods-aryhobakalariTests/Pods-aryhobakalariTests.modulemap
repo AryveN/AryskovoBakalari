@@ -1,0 +1,6 @@
+framework module Pods_aryhobakalariTests {
+  umbrella header "Pods-aryhobakalariTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
